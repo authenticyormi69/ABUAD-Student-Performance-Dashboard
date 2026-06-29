@@ -3,7 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
-*.xlsx
-*.csv
 debug_output.txt
 debug_mysql.py
